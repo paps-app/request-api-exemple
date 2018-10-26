@@ -1,0 +1,53 @@
+{
+  "method": "POST",
+  "url": "https://api.paps.sn/v1/createTask",
+  "httpVersion": "HTTP/1.1",
+  "headers": [],
+  "queryString": [
+    {
+      "name": "apiKey",
+      "value": "69bd76dc74ca1d0834de769e3947481a25a9389fc2e172ab1c33"
+    }
+  ],
+  "postData": [
+    {
+      "name": "jobPickupName",
+      "value": "Moussa"
+    },
+    {
+      "name": "customerName",
+      "value": "fanta"
+    },
+    {
+      "name": "jobPickupAddress",
+      "value": "Fadia, Dakar, Sénégal"
+    },
+    {
+      "name": "customerAddress",
+      "value": "Médina, Dakar, Sénégal"
+    },
+    {
+      "name": "jobPickupDatetime",
+      "value": "2018-10-23 00:00:00"
+    },
+    {
+      "name": "jobDeliveryDatetime",
+      "value": "2018-10-23 00:00:00"
+    },
+    {
+      "name": "jobDescription",
+      "value": "TEST -- Commande venant du site web"
+    },
+    {
+      "name": "autoAssignment",
+      "value": "0"
+    },
+    {
+      "name": "timezone",
+      "value": "0"
+    }
+  ],
+  "headersSize": 150,
+  "bodySize": -1,
+  "comment": ""
+}

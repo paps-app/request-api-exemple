@@ -1,0 +1,29 @@
+{
+  "method": "POST",
+  "url": "https://api.paps.sn/v1/createDelivery",
+  "httpVersion": "HTTP/1.1",
+  "headers": [],
+  "queryString": [
+    {
+      "name": "apiKey",
+      "value": "69bd76dc74ca1d0834de769e3947481a25a9389fc2e172ab1c33"
+    }
+  ],
+  "postData": [
+    {
+      "name": "customerAddress",
+      "value": "Ouest Foire, Dakar, Sénégal"
+    },
+    {
+      "name": "timezone",
+      "value": "0"
+    },
+    {
+      "name": "jobDeliveryDatetime",
+      "value": "2018-10-24 00:00:00"
+    }
+  ],
+  "headersSize": 150,
+  "bodySize": -1,
+  "comment": ""
+}

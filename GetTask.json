@@ -1,0 +1,20 @@
+{
+  "method": "GET",
+  "url": "https://api.paps.sn/v1/task",
+  "httpVersion": "HTTP/1.1",
+  "headers": [],
+  "queryString": [
+    {
+      "name": "apiKey",
+      "value": "69bd76dc74ca1d0834de769e3947481a25a9389fc2e172ab1c33"
+    },
+    {
+      "name": "getId",
+      "value": "22792852"
+    }
+  ],
+
+  "headersSize": 150,
+  "bodySize": -1,
+  "comment": ""
+}
