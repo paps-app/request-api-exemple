@@ -2,7 +2,6 @@
   "method": "POST",
   "url": "https://api.paps.sn/v1/createTask",
   "httpVersion": "HTTP/1.1",
-  "headers": [],
   "queryString": [
     {
       "name": "apiKey",
@@ -46,8 +45,5 @@
       "name": "timezone",
       "value": "0"
     }
-  ],
-  "headersSize": 150,
-  "bodySize": -1,
-  "comment": ""
+  ]
 }

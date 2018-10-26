@@ -1,43 +1,25 @@
 {
   "method": "POST",
-
   "url": "https://api.paps.sn/v1/createPickup",
-
   "httpVersion": "HTTP/1.1",
-
-  "headers": [],
-
   "queryString": [
     {
       "name": "apiKey",
-
       "value": "69bd76dc74ca1d0834de769e3947481a25a9389fc2e172ab1c33"
     }
   ],
-
   "postData": [
     {
       "name": "jobPickupAddress",
-
       "value": "Fann Hock, Dakar, Sénégal"
     },
-
     {
       "name": "timezone",
-
       "value": "0"
     },
-
     {
       "name": "jobPickupDatetime",
-
       "value": "2018-10-23 00:00:00"
     }
-  ],
-
-  "headersSize": 150,
-
-  "bodySize": -1,
-
-  "comment": ""
+  ]
 }
