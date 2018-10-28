@@ -8,18 +8,12 @@
       "value": "69bd76dc74ca1d0834de769e3947481a25a9389fc2e172ab1c33"
     }
   ],
-  "postData": [
-    {
-      "name": "customerAddress",
-      "value": "Ouest Foire, Dakar, Sénégal"
-    },
-    {
-      "name": "timezone",
-      "value": "0"
-    },
-    {
-      "name": "jobDeliveryDatetime",
-      "value": "2018-10-24 00:00:00"
-    }
-  ]
+  "headers": [
+    { "name": "Accept", "value": "application/json" },
+    { "name": "Content-Type", "value": "application/json" }
+  ],
+  "postData": {
+    "mimeType": "application/json",
+    "text": "{\"customerAddress\": \"Ouest Foire, Dakar, Sénégal\", \"timezone\": \"0\", \"jobDeliveryDatetime\": \"2018-10-24 00:00:00\"}"
+  }
 }
