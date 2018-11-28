@@ -1,6 +1,6 @@
 {
   "method": "GET",
-  "url": "https://api.paps.sn/v1/task",
+  "url": "https://api.paps.sn/v1/deleteTask",
   "httpVersion": "HTTP/1.1",
     "headers": [
     { "name": "Accept", "value": "application/json" },
@@ -12,7 +12,7 @@
       "value": "69bd76dc74ca1d0834de769e3947481a25a9389fc2e172ab1c33"
     },
     {
-      "name": "deleteId",
+      "name": "id",
       "value": "22792852"
     }
   ]
