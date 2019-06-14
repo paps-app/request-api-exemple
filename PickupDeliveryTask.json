@@ -1,6 +1,6 @@
 {
   "method": "POST",
-  "url": "https://api.paps.sn/v1/createTask",
+  "url": "https://api.paps.sn/v1/PickupDeliveryTask",
   "httpVersion": "HTTP/1.1",
   "queryString": [
     {
