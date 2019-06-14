@@ -21,6 +21,3 @@
     "text": "{\"jobPickupName\": \"Moussa\", \"customerName\": \"fanta\", \"jobPickupAddress\": \"Fadia, Dakar, Sénégal\", \"customerAddress\": \"Médina, Dakar, Sénégal\", \"jobPickupDatetime\": \"2018-10-23 00:00:00\", \"jobDeliveryDatetime\": \"2018-10-23 01:00:00\", \"jobDescription\": \"Test\", \"jobDescription\": \"Test\" }"
   }
 }
-
-  }
-}
