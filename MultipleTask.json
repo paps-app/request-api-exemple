@@ -1,6 +1,6 @@
 {
   "method": "POST",
-  "url": "https://api.paps.sn/v1/MultipleTask",
+  "url": "https://api.paps.sn/v1/createMultipleTask",
   "httpVersion": "HTTP/1.1",
   "queryString": [
     {
