@@ -1,0 +1,23 @@
+{
+  "method": "POST",
+  "url": "https://api.paps.sn/v1/updateTaskDatetime",
+  "httpVersion": "HTTP/1.1",
+  "headers": [
+    { "name": "Accept", "value": "application/json" },
+    { "name": "Content-Type", "value": "application/json" }
+  ],
+  "queryString": [
+    {
+      "name": "apiKey",
+      "value": "69bd76dc74ca1d0834de769e3947481a25a9389fc2e172ab1c33"
+    }
+  ],
+  "headers": [
+    { "name": "Accept", "value": "application/json" },
+    { "name": "Content-Type", "value": "application/json" }
+  ],
+  "postData": {
+    "mimeType": "application/json",
+    "text": "{ \"job_ids\": [ \"3360\", \"3368\", \"3967\" ], \"start_time\": \"2019-04-26 11:00:00\", \"end_time\": \"2019-04-26 11:30:00\" }"
+  }
+}
